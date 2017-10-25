@@ -1,0 +1,7 @@
+{
+	"directory": "bower_components",
+	"interactive": true,
+	"scripts": {
+		"postinstall": "gulp wiredep"
+	}
+}
